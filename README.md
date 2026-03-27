@@ -1,7 +1,7 @@
 # Recon-tool
 This is a recon tool that scans common ports on a given domain name and provides the IP and a list of set ports that are open or closed/filtered.
 
-## DISCLAIMER:
+## DISCLAIMER
 
 This tool is intended **only for educational purposes** and for testing on networks and systems that you **own or have explicit permission to scan**. 
 
